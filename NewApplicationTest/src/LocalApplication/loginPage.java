@@ -1,6 +1,9 @@
 package LocalApplication;
 
 
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -11,7 +14,7 @@ import org.testng.annotations.Test;
 
 public class loginPage {
 	@Test
-	public static void main(String[] args) {
+		public void login() {
 		// TODO Auto-generated method stub
 		
 
