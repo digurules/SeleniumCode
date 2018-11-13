@@ -1,6 +1,7 @@
 package Loginpage;
 
 
+import org.testng.annotations.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -11,7 +12,7 @@ import org.testng.annotations.Test;
 
 public class LoginPage {
 	@Test
-	public static void main(String[] args) {
+	public static void Login()  {
 		// TODO Auto-generated method stub
 		
 // to chefck 

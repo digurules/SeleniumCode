@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12923" started-at="2018-11-12T09:06:19Z" finished-at="2018-11-12T09:06:32Z">
+  <suite name="Suite" duration-ms="10491" started-at="2018-11-13T14:07:30Z" finished-at="2018-11-13T14:07:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12923" started-at="2018-11-12T09:06:19Z" finished-at="2018-11-12T09:06:32Z">
+    <test name="Test" duration-ms="10491" started-at="2018-11-13T14:07:30Z" finished-at="2018-11-13T14:07:41Z">
       <class name="Loginpage.LoginPage">
-        <test-method status="PASS" signature="page()[pri:0, instance:Loginpage.LoginPage@36d4b5c]" name="page" duration-ms="12891" started-at="2018-11-12T09:06:19Z" finished-at="2018-11-12T09:06:32Z">
+        <test-method status="PASS" signature="Login()[pri:0, instance:Loginpage.LoginPage@1bc6a36e]" name="Login" duration-ms="10454" started-at="2018-11-13T14:07:30Z" finished-at="2018-11-13T14:07:41Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- page -->
+        </test-method> <!-- Login -->
       </class> <!-- Loginpage.LoginPage -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
